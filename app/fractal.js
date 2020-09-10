@@ -1,4 +1,4 @@
-// https://github.com/rafrex/fractal
+// https://github.com/rafgraph/fractal
 // this code may be freely distributed under the GNU GPL v3 copyleft licence
 
 (function(){

@@ -1,6 +1,6 @@
 # Mandelbrot Fractal Generator
 
-http://fractal.rafrex.com
+https://fractal.rafgraph.dev
 
 
 JavaScript app that draws the Mandelbrot fractal and allows you to zoom in and explore the fractal (uses zero libraries). Launches in fullscreen mode for maximum impact on desktop, and has a responsive mobile compatible design with a multi-touch interface on mobile devices.
